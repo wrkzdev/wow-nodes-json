@@ -8,7 +8,7 @@
         },
         {
             "name": "global.wownodes.com",
-            "url": "http://global.wownodes.com",
+            "url": "global.wownodes.com",
             "port": 34568,
             "ssl": false
         },
