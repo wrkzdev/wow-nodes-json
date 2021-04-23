@@ -1,0 +1,59 @@
+{
+  "nodes": [
+   {
+      "name": "88.198.199.23",
+      "url": "88.198.199.23",
+      "port": 34568
+    },
+   {
+      "name": "global.wownodes.com",
+      "url": "http://global.wownodes.com",
+      "port": 34568
+    },
+   {
+      "name": "much.wow.such.money",
+      "url": "much.wow.such.money",
+      "port": 34568
+    },
+   {
+      "name": "node.suchwow.xyz",
+      "url": "node.suchwow.xyz",
+      "port": 34568
+    },
+   {
+      "name": "node.wownero.club",
+      "url": "node.wownero.club",
+      "port": 34568
+    },
+   {
+      "name": "nodes.hashvault.pro",
+      "url": "nodes.hashvault.pro",
+      "port": 34568
+    },
+   {
+      "name": "wow.bot.tips",
+      "url": "wow.bot.tips",
+      "port": 34568
+    },
+   {
+      "name": "wow.pwned.systems",
+      "url": "wow.pwned.systems",
+      "port": 34568
+    },
+   {
+      "name": "wowbux.org",
+      "url": "wowbux.org",
+      "port": 34568
+    },
+   {
+      "name": "wownero.fyi",
+      "url": "wownero.fyi",
+      "port": 34568
+    },
+   {
+      "name": "wownero.mooo.com",
+      "url": "wownero.mooo.com",
+      "port": 34568
+    },
+  ]
+}
