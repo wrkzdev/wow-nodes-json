@@ -3,57 +3,68 @@
    {
       "name": "88.198.199.23",
       "url": "88.198.199.23",
-      "port": 34568
+      "port": 34568,
+      "ssl": false
     },
    {
       "name": "global.wownodes.com",
       "url": "http://global.wownodes.com",
-      "port": 34568
+      "port": 34568,
+      "ssl": false
     },
    {
       "name": "much.wow.such.money",
       "url": "much.wow.such.money",
-      "port": 34568
+      "port": 34568,
+      "ssl": false
     },
    {
       "name": "node.suchwow.xyz",
       "url": "node.suchwow.xyz",
-      "port": 34568
+      "port": 34568,
+      "ssl": false
     },
    {
       "name": "node.wownero.club",
       "url": "node.wownero.club",
-      "port": 34568
+      "port": 34568,
+      "ssl": false
     },
    {
       "name": "nodes.hashvault.pro",
       "url": "nodes.hashvault.pro",
-      "port": 34568
+      "port": 34568,
+      "ssl": false
     },
    {
       "name": "wow.bot.tips",
       "url": "wow.bot.tips",
-      "port": 34568
+      "port": 34568,
+      "ssl": false
     },
    {
       "name": "wow.pwned.systems",
       "url": "wow.pwned.systems",
-      "port": 34568
+      "port": 34568,
+      "ssl": false
     },
    {
       "name": "wowbux.org",
       "url": "wowbux.org",
-      "port": 34568
+      "port": 34568,
+      "ssl": false
     },
    {
       "name": "wownero.fyi",
       "url": "wownero.fyi",
-      "port": 34568
+      "port": 34568,
+      "ssl": false
     },
    {
       "name": "wownero.mooo.com",
       "url": "wownero.mooo.com",
-      "port": 34568
+      "port": 34568,
+      "ssl": false
     },
   ]
 }
